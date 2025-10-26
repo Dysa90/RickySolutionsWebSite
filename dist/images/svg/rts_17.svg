@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Layer_2" data-name="Layer 2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 87.83 78.59">
+  <defs>
+    <style>
+      .cls-1 {
+        font-family: FontAwesome6Free-Solid, 'Font Awesome 6 Free';
+        font-size: 30.58px;
+      }
+
+      .cls-1, .cls-2 {
+        fill: #fffcd9;
+      }
+
+      .cls-3 {
+        fill: #a01d27;
+      }
+    </style>
+  </defs>
+  <g id="Layer_1-2" data-name="Layer 1">
+    <g>
+      <g id="white_shape" data-name="white shape">
+        <path class="cls-2" d="M42.75,78.59l-.93-.51L1.83,54.15c-1.17-.7-1.83-1.95-1.83-3.45V3.96C0,1.39,1.89,0,3.67,0h80.48c1.78,0,3.67,1.39,3.67,3.96v46.74c0,1.49-.67,2.75-1.83,3.44l-41.34,24.45h-.99s-.92,0-.92,0Z"/>
+        <path class="cls-3" d="M43.67,75.05s-.02,0-.03,0L3.65,51.11c-.06-.04-.11-.21-.11-.41V3.96c0-.23.06-.41.14-.41h80.48c.07,0,.14.19.14.41v46.74c0,.2-.05.37-.11.41l-40.49,23.94s-.02,0-.03,0Z"/>
+      </g>
+      <text class="cls-1" transform="translate(30.4 46.52) scale(1.01 1)"><tspan x="0" y="0"></tspan></text>
+    </g>
+  </g>
+</svg>
